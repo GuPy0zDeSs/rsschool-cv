@@ -48,6 +48,6 @@ function greet(world)
 
 ## Foreign language
 
-English (B1)
-Russian (C1)
-Kazakh (native)
+- English (B1)
+- Russian (C1)
+- Kazakh (native)
