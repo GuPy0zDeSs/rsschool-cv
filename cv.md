@@ -24,7 +24,7 @@ My main goal at the moment is to work together on real JavaScript projects. I wi
  
 - Git
 
-- Java bacics
+- Java basics
 
 ## Code examples
 
@@ -42,7 +42,9 @@ function greet(world)
 
 **Online courses**
 
-- COdeForces: Java 0 stage;
+- CodeForces: Java 0 stage;
+- Cisco Academy: CCNAv7: Switching, Routing, and Wireless Essentials;
+- Cisco Academy: CCNAv7: Enterprise Networking, Security, and Automation;
 
 ## Foreign language
 
